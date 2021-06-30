@@ -25,5 +25,5 @@ Technical writers can primarily contribute by link:./contributing-to-documentati
 
 A developer is a person who impements the codebase, as specified by the documentation. Developers should refer to the documentation to implement and test the intended design and behavior of the software in development.
 
-Developers can primarily contribute by both link:./contributing-to-code[Contributing to code] and link:./contributing-to-code[Contributing to code].
+Developers can primarily contribute by both link:./contributing-to-documentation[Contributing to documentation] and link:./contributing-to-code[Contributing to code].
 
