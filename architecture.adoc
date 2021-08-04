@@ -1,0 +1,16 @@
+= Old Dominion University (ODU) & Coast Guard Academy (CGA) CubeSat Misssion Concept of Operations (ConOps)
+:revnumber: v0.1.0
+:toc: left
+
+== Stakeholder Needs
+ 
+The Old Dominion University (ODU) & Coast Guard Academy (CGA) CubeSat Misssion Concept of Operations (ConOps) is guided by a series of stakeholder needs, listed below.
+
+
+
+== User Stories
+
+The Old Dominion University (ODU) & Coast Guard Academy (CGA) CubeSat Misssion Concept of Operations (ConOps)'s stakeholder needs are then used to identify a series of user stories which then lead to design decisions captured in data structure and activity definitions.
+
+
+
